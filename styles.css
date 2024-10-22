@@ -1,0 +1,43 @@
+body{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.index_body{
+  background-color: greenyellow;
+  color: rgb(184, 52, 3);
+}
+
+.index_h1{
+  color: brown;
+}
+
+.index_h2{
+  color: crimson;
+}
+
+.disaster_body{
+  color: rgb(201, 3, 3);
+  background-color: rgb(224, 223, 223);
+}
+
+.success_body{
+  color: rgb(204, 12, 204);
+  background-color: rgb(230, 148, 175);
+}
+
+.success_h0{
+  color: rgb(20, 196, 20);
+}
+
+.success_link{
+  color: rgb(167, 20, 20);
+}
+
+.humility_body{
+  background-color: gray;
+  color: rgb(27, 27, 131);
+}
+
+.humility_h0{
+  color: rgb(170, 23, 23);
+}
